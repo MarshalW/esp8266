@@ -1,0 +1,3 @@
+#define SSID "xxxxxx"
+#define PASS "xxxxxxxxxx"
+#define PORT 8663
